@@ -3,7 +3,6 @@ import Example from "./components/Example";
 import Parent from "./components/Parent";
 
 function App() {
-  const message = "hei fra app";
   return (
     <>
       <Example>
